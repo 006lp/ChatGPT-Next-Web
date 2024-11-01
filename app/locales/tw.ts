@@ -8,12 +8,12 @@ const tw = {
   Error: {
     Unauthorized: isApp
       ? `😆 對話遇到了一些問題，不用慌:
-    \\ 1️⃣ 想要無須設定開箱即用，[點選這裡立刻開啟對話 🚀](${SAAS_CHAT_UTM_URL})
-    \\ 2️⃣ 如果你想消耗自己的 OpenAI 資源，點選[這裡](/#/settings)修改設定 ⚙️`
+    \\ 請聯繫網站管理員@006lp尋求幫助
+    \\ 聯絡方式：[Telegram](https://t.me/lpsuki)、[X(原Twitter)](https://x.com/006lpsuki)或[Email](mailto:kirakirai8023@gmail.com)`
       : `😆 對話遇到了一些問題，不用慌:
-    \ 1️⃣ 想要無須設定開箱即用，[點選這裡立刻開啟對話 🚀](${SAAS_CHAT_UTM_URL})
-    \ 2️⃣ 如果你正在使用私有部署版本，點選[這裡](/#/auth)輸入存取金鑰 🔑
-    \ 3️⃣ 如果你想消耗自己的 OpenAI 資源，點選[這裡](/#/settings)修改設定 ⚙️
+    \ 看起來你並沒有登入呢，點擊[這裡](/#/auth)輸入存取金鑰 🔑
+    \ 沒有金鑰？請聯繫網站管理員@006lp尋求幫助
+    \ 聯絡方式：[Telegram](https://t.me/lpsuki)、[X(原Twitter)](https://x.com/006lpsuki)或[Email](mailto:kirakirai8023@gmail.com)
  `,
   },
 
